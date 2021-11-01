@@ -17,7 +17,7 @@ public class FirstProgram {
 
 	@Test
 	public void openMyBlog() throws Exception {
-		driver.get("https://www.softwaretestingmaterial.com/");
+		driver.get("https://www.sfit.ac.in/");
 		Thread.sleep(6000);
 	}
 
